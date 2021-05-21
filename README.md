@@ -1,4 +1,4 @@
-"SoundFiltering
+SoundFiltering
 
 During my graduation project I needed to cancel noise of a ventilator.
 
@@ -13,6 +13,4 @@ In online_modeling.py a method is implemented to cancel a constant noise online.
 Hardware requirements:
     PC can be very slow, adjust output queue size accordingly
     Speaker to play anti-noise: should be able to play the frequencies of the noise
-    Microphone to record: shoud be able to pickup the frequencies of the noise
-
-" 
+    Microphone to record: shoud be able to pickup the frequencies of the noise 
