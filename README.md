@@ -10,7 +10,8 @@ online_modeling.py and offline_modeling.py can model the anti-noise for a consta
 In offline_modeling.py a method is implemented to cancel a constant noise offline.
 
 In online_modeling.py a method is implemented to cancel a constant noise online.
+
 Hardware requirements:
-    PC can be very slow, adjust output queue size accordingly
-    Speaker to play anti-noise: should be able to play the frequencies of the noise
-    Microphone to record: shoud be able to pickup the frequencies of the noise 
+PC can be very slow, adjust output queue size accordingly
+Speaker to play anti-noise: should be able to play the frequencies of the noise
+Microphone to record: shoud be able to pickup the frequencies of the noise 
